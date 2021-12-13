@@ -9,7 +9,7 @@ const Footer = () => {
         return (
             <>
                 <footer className="w-100 bg-light text-center">
-                    <p> ©️ {yyy}  Mahi Enterprise. All Rights Reserved | Terms and Conditions</p>
+                    <p> ©️ {yyy}  Ankur Enterprise. All Rights Reserved | Terms and Conditions</p>
                 </footer>
             </>
         );
